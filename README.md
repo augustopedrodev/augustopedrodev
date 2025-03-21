@@ -15,4 +15,8 @@ Hi, I'm Pedro!<br>"I'm a technology enthusiast and love learning new things, so 
 ---
 [![](https://visitcount.itsvg.in/api?id=augustopedrodev&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/augustopedrodev/augustopedrodev/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
